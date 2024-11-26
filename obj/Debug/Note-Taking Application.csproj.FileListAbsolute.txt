@@ -1,0 +1,10 @@
+C:\Users\morga\Documents\CIS285\Final Project\Note-Taking Application\bin\Debug\Note-Taking Application.exe.config
+C:\Users\morga\Documents\CIS285\Final Project\Note-Taking Application\bin\Debug\Note-Taking Application.exe
+C:\Users\morga\Documents\CIS285\Final Project\Note-Taking Application\bin\Debug\Note-Taking Application.pdb
+C:\Users\morga\Documents\CIS285\Final Project\Note-Taking Application\obj\Debug\Note-Taking Application.csproj.AssemblyReference.cache
+C:\Users\morga\Documents\CIS285\Final Project\Note-Taking Application\obj\Debug\Note_Taking_Application.Form1.resources
+C:\Users\morga\Documents\CIS285\Final Project\Note-Taking Application\obj\Debug\Note_Taking_Application.Properties.Resources.resources
+C:\Users\morga\Documents\CIS285\Final Project\Note-Taking Application\obj\Debug\Note-Taking Application.csproj.GenerateResource.cache
+C:\Users\morga\Documents\CIS285\Final Project\Note-Taking Application\obj\Debug\Note-Taking Application.csproj.CoreCompileInputs.cache
+C:\Users\morga\Documents\CIS285\Final Project\Note-Taking Application\obj\Debug\Note-Taking Application.exe
+C:\Users\morga\Documents\CIS285\Final Project\Note-Taking Application\obj\Debug\Note-Taking Application.pdb
